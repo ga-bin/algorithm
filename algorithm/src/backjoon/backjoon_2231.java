@@ -35,5 +35,5 @@ public class backjoon_2231 {
 			System.out.println("0");
 		}
 	}
-
+	
 }
